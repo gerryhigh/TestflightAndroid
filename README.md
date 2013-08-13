@@ -2,7 +2,7 @@ This project provides a binding for TestFlight SDK for Android for Xamarin.Andro
 
 To use, put this in your MainApplication:
 
-using Com.Testflightapp.Lib;
+using Com.TestFlightApp.Lib;
 ..
 TestFlight.TakeOff(this, "Your App token");
 TestFlight.Log("blah");
